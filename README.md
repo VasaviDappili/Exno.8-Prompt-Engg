@@ -1,6 +1,6 @@
 # Exno.8-Prompt-Engg
 # Date:21-05-2025
-# Register no: DAPPILI VASAVI
+# Register no: 212223040030
 # Aim: To perform the Exploration of Prompting Techniques for Audio Generation
 # Algorithm: Explore how various prompting techniques can be used to generate and manipulate audio content (e.g., music, sound effects, voice narration) using AI model.
 
