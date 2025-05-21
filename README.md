@@ -9,15 +9,15 @@
 
 # 🎧 PROMPTING TECHNIQUES USED
 ## 🔵 Audio 1:
-```
-"Create a cinematic ambient track that begins with soft rainfall and a gentle breeze layered behind an emotional solo piano. The piano should follow a slow, melancholic melody. As the track progresses, slowly introduce distant thunder rumbles. At the midpoint, add a single loud thunderclap for dramatic tension. Afterward, let the piano gradually slow down and fade, leaving only the ambient rain and breeze as the track ends."
-```
+
+>"Create a cinematic ambient track that begins with soft rainfall and a gentle breeze layered behind an emotional solo piano. The piano should follow a slow, melancholic melody. As the track progresses, slowly introduce distant thunder rumbles. At the midpoint, add a single loud thunderclap for dramatic tension. Afterward, let the piano gradually slow down and fade, leaving only the ambient rain and breeze as the track ends."
+
 # 🎙️ OUTPUT LINK:
 https://drive.google.com/file/d/10kb1n4RpuQfUOaCeQmPZzD5iJbulpRZ2/view?usp=drivesdk
 
 # 🟢 Audio 2:
 ```
-“A lone astronaut drifts through the dark silence of space, with only the hum of life support echoing inside the helmet. In the distance, a mysterious alien signal pulses—a rhythmic sound, growing louder. Suddenly, static interferes, and an ominous voice whispers coordinates… then silence.”
+>“A lone astronaut drifts through the dark silence of space, with only the hum of life support echoing inside the helmet. In the distance, a mysterious alien signal pulses—a rhythmic sound, growing louder. Suddenly, static interferes, and an ominous voice whispers coordinates… then silence.”
 ```
 ## 🎙️ OUTPUT LINK:
 https://drive.google.com/file/d/10MwdZsakSIu67BtSeVgGH6Cy63W95b8g/view?usp=drivesdk
